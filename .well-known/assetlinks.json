@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.pdlsaktipur_cyber.twa",
+    "sha256_cert_fingerprints": ["34:97:18:1F:70:27:A7:D0:C3:D1:47:BF:48:4D:D8:2E:67:E5:65:B0:D5:AD:4D:FE:75:92:84:EB:6F:8C:F9:FE"]
+  }
+}]
