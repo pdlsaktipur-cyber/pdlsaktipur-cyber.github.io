@@ -1,0 +1,45 @@
+{
+  "name": "My Medical Pro",
+  "short_name": "My Medical",
+  "description": "ফার্মেসি ম্যানেজমেন্ট অ্যাপ — বিল, স্টক, কাস্টমার, বাকির খাতা",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B5ED7",
+  "theme_color": "#0B5ED7",
+  "lang": "bn",
+  "categories": [
+    "medical",
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "নতুন বিল",
+      "short_name": "বিল",
+      "description": "সরাসরি বিলিং পেজে যান",
+      "url": "./index.html#bill"
+    },
+    {
+      "name": "স্টক দেখুন",
+      "short_name": "স্টক",
+      "description": "স্টক পেজ",
+      "url": "./index.html#inv"
+    }
+  ]
+}
