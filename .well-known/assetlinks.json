@@ -1,8 +1,22 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.pdlsaktipur_cyber.twa",
-    "sha256_cert_fingerprints": ["34:97:18:1F:70:27:A7:D0:C3:D1:47:BF:48:4D:D8:2E:67:E5:65:B0:D5:AD:4D:FE:75:92:84:EB:6F:8C:F9:FE"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.pdlsaktipur_cyber.twa",
+      "sha256_cert_fingerprints": [
+        "0F:E2:DC:85:38:60:7A:95:64:60:CB:CE:FA:82:6D:4E:99:A3:35:E1:9F:CF:31:E4:93:4D:43:D4:56:58:3B:56"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.pdlsaktipur_cyber.twa",
+      "sha256_cert_fingerprints": [
+        "4A:3C:D2:5D:BF:57:BB:D0:F6:0F:EF:BC:A4:4E:D0:4F:91:D4:1F:B1:A7:73:C6:BE:85:AA:5D:59:75:A0:62:38"
+      ]
+    }
   }
-}]
+]
